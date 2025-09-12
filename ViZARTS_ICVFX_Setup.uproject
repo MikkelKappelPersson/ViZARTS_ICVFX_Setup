@@ -163,6 +163,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "LiveLinkHub",
+			"Enabled": true
 		}
 	]
 }
