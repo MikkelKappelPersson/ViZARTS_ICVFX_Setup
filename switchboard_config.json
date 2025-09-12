@@ -76,7 +76,7 @@
                 "listener_inactive_timeout": 5,
                 "slate_allow_throttling": false,
                 "retrieve_logs": true,
-                "livelink_preset": "/Game/VP_Assets/ViceTrackerCameraLiveLinkPreset.uasset",
+                "livelink_preset": "/Game/VP_Assets/LLXRViveTracker.uasset",
                 "mediaprofile": "",
                 "lock_gpu_clock": false,
                 "use_sync_filters": false,
